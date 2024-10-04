@@ -24,6 +24,8 @@ py -m pip install seaborn
 py -m pip install sscipy
 
 ## Data source
+ I am utilizing a dataset that contains anonymized corn-farming households in Taita Taveta, a county located in the Republic of Kenya, East Africa.
+ 
 Corn farming dataset ('https://www.kaggle.com/datasets/japondo/corn-farming-data')
 
 
