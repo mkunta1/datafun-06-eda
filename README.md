@@ -15,6 +15,19 @@ git add .
 git commit -m
 git push -u origin main
 
+## Install packages 
+py -m pip install jupyterlab
+py -m pip install numpy
+py -m pip install pandas
+py -m pip install matplotlib
+py -m pip install seaborn
+py -m pip install sscipy
+
+## Data source
+Corn farming dataset ('https://www.kaggle.com/datasets/japondo/corn-farming-data')
+
+
+
 
 
 
