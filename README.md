@@ -21,7 +21,7 @@ py -m pip install numpy
 py -m pip install pandas
 py -m pip install matplotlib
 py -m pip install seaborn
-py -m pip install sscipy
+py -m pip install scipy
 
 ## Data source
  I am utilizing a dataset that contains anonymized corn-farming households in Taita Taveta, a county located in the Republic of Kenya, East Africa.
